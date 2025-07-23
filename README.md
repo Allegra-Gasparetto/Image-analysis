@@ -1,4 +1,4 @@
-# Image-analysis
+# Image analysis
 This repository contains a collection of assignments related to key topics in image analysis, including:
 
 1. Image Recognition
